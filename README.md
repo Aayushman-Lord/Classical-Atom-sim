@@ -7,7 +7,7 @@ This is a **classical approximation**, not a quantum simulation.
 
 ---
 ## Important Notice 
-This repo is created in c++, MAKEFILE is just used for compileation
+This repo is created in c++, MAKEFILE is just used to compile 
 
 ---
 ## Preview
