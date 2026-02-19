@@ -6,7 +6,10 @@ This project simulates subatomic particles (protons, neutrons, electrons) using 
 This is a **classical approximation**, not a quantum simulation.
 
 ---
+## Important Notice 
+This repo is created in c++, MAKEFILE is just used for compileation
 
+---
 ## Preview
 
 Features stable electron orbit around a proton using correct orbital velocity and inverse-square electric force.
