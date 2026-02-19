@@ -159,4 +159,9 @@ Classical mechanics, atomic models, and physics simulation engines.
 Pull requests welcome.
 Feel free to improve physics accuracy or performance.
 
+---
+## LICENSE
+MIT License
+
+
 
